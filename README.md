@@ -1,2 +1,3 @@
 # cartes0.1
-Gioco di carte : scopa
+Cards game: Scope.
+In this game we get some simple objects (cards) that are tree. This game does not use special libraries use defult things of android
